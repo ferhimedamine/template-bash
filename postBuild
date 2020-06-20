@@ -4,4 +4,7 @@ jupyter labextension install \
   jupyterlab-topbar-text
 
 python -m bash_kernel.install --sys-prefix
-python -m ipykernel install --user
+python -m ipykernel install --name 'conda_python3.6.3''
+python -m ipykernel install --name 'conda_python2.7.14'
+python -m ipykernel install --name 'conda_tensorflow_cpu_python3'
+python -m ipykernel install --name 'conda_tensorflow_cpu_python2'
