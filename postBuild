@@ -4,3 +4,4 @@ jupyter labextension install \
   jupyterlab-topbar-text
 
 python -m bash_kernel.install --sys-prefix
+python -m ipykernel install --user
