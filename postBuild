@@ -1,6 +1,7 @@
 jupyter labextension install \
   jupyterlab-topbar-extension \
   jupyterlab-system-monitor \
-  jupyterlab-topbar-text
+  jupyterlab-topbar-text \
+  jupyterlab_tensorboard
 
 python -m bash_kernel.install --sys-prefix
