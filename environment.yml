@@ -11,5 +11,5 @@ dependencies:
     - bash_kernel
     - ipython
     - jupyter-tensorboard
-    - tensorflow
+    - tensorflow>=1.3
     - tensorflow-tensorboard
