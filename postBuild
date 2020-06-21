@@ -3,5 +3,7 @@ jupyter labextension install \
   jupyterlab-system-monitor \
   jupyterlab-topbar-text \
   jupyterlab_tensorboard
+  
+jupyter tensorboard enable --user
 
 python -m bash_kernel.install --sys-prefix
