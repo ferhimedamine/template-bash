@@ -12,3 +12,4 @@ dependencies:
   - pip:
     - bash_kernel
     - ipython
+    - jupyter-tensorboard
