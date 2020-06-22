@@ -1,6 +1,6 @@
 vim
-nano
 gawk
 tree
 htop
 cowsay
+
